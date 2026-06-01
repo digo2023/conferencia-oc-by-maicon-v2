@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+*.log
+saida_conferencia/
+saida_conferencia_revisada/
+test_current/
+*.xlsx
+*.pdf
